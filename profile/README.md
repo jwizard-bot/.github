@@ -1,1 +1,1 @@
-README FILE
+![](../images/infra-diagram.png)
