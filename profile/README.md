@@ -15,5 +15,7 @@ More info you will find at [jwizard.pl](https://jwizard.pl).
 | ❌ | **Guild management**                   | Manage commands, audio player settings, guild settings, and playlists assigned to a user account through a web browser.                                          |
 
 Legend:
+
 ✔️ - Functionality implemented and active.
+<br>
 ❌ - Functionality expected to be implemented in the near future or in the process of implementation.
